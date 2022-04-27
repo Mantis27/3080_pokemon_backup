@@ -56,6 +56,5 @@ Second reson is the initiation. For classes closely related to UI, like `Invento
 #### UI creation
 As one can tell from the Source Code, especially from `Inventory` class, a bug chunk of codes are for creating different controls like StackPanel, TextBlock. These code blocks are often repetitive. So when refactoring the code in the future, we want to dedicate a new class for the UI setup, potentially make use of Strategy pattern.
 
-## Division of Labour
-HUI, Sze Ho Forster : Pokemon, Battle(+ AI, PaperScissorsStone) \
-HO, Tsz Ngong : Map (+ PokemonSpawner), CatchGame, Inventory (+ ReforgeGame), User
+## Date
+Dec 2020
